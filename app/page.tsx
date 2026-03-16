@@ -5,7 +5,7 @@ import { ArtworkCard } from "../components/ArtworkCard";
 
 export default function Home() {
   const featured = artworks.slice(0, 3);
-  const heroImage = "/artist/hero.jpg";
+  const heroImage = "/artist/hero.JPG";
 
   return (
     <div className="flex flex-1 flex-col gap-12">
