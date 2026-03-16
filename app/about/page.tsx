@@ -17,7 +17,7 @@ export default function AboutPage() {
         <div className="grid gap-8 md:grid-cols-[minmax(0,1.3fr)_minmax(0,2fr)] md:items-start">
           <div className="relative h-64 overflow-hidden rounded-2xl bg-zinc-100 md:h-80">
             <Image
-              src="/artist/artist.JPG"
+              src="/artist/artist.jpg"
               alt="Artist portrait in the studio"
               fill
               sizes="(min-width: 768px) 33vw, 100vw"
