@@ -12,7 +12,7 @@ export default function GalleryPage() {
           Paintings on display
         </h1>
         <p className="max-w-2xl text-sm leading-relaxed text-zinc-600 sm:text-base">
-          A small selection of Sophie&apos;s recent work. Pieces marked as
+          A small selection of Marie-Christine&apos;s recent work. Pieces marked as
           &quot;Available&quot; may be reserved or purchased by enquiry in a
           future step of this site.
         </p>
