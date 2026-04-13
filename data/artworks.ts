@@ -18,6 +18,7 @@ export const artworks: Artwork[] = [
     images: [
       "/listings/1.1.jpeg",
       "/listings/1.2.jpeg",
+      "/listings/1.3.jpeg",
     ],
     medium: "Oil on Canvas",
     size: "60 x 90 cm",
