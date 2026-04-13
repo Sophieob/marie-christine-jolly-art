@@ -58,8 +58,8 @@ export const artworks: Artwork[] = [
     id: "soft-morning",
     title: "Morning Tide",
     images: [
-      "/artworks/3.JPG",
-      "/artworks/4.JPG",
+      "/listings/4.1.jpeg",
+      "/listings/4.2.jpeg",
     ],
     medium: "Watercolor on Paper",
     size: "30 x 40 cm",
