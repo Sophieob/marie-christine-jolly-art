@@ -72,8 +72,8 @@ export const artworks: Artwork[] = [
     id: "storm-memory",
     title: "Memory of a Storm",
     images: [
-      "/listings/5.1.jpeg",
       "/listings/5.2.jpeg",
+      "/listings/5.1.jpeg",
     ],
     medium: "Mixed Media",
     size: "70 x 90 cm",
