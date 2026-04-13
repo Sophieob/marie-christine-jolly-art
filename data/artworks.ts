@@ -14,7 +14,7 @@ export interface Artwork {
 export const artworks: Artwork[] = [
   {
     id: "sunlit-field",
-    title: "Last Light on the Water",
+    title: "Where the Light Meets the Sea",
     images: [
       "/listings/1.1.jpeg",
       "/listings/1.2.jpeg",
@@ -28,12 +28,12 @@ export const artworks: Artwork[] = [
   },
   {
     id: "evening-harbor",
-    title: "Quiet Reflections",
+    title: "Beacon by the Shore",
     images: [
       "/listings/2.1.jpeg",
       "/listings/2.2.jpeg",
     ],
-    medium: "Acrylic on Panel",
+    medium: "Oil on Canvas",
     size: "50 x 70 cm",
     year: 2024,
     description:
@@ -42,12 +42,12 @@ export const artworks: Artwork[] = [
   },
   {
     id: "quiet-forest",
-    title: "Golden Hills of Summer",
+    title: "Lavender Horizon",
     images: [
       "/listings/3.1.jpeg",
       "/listings/3.2.jpeg",
     ],
-    medium: "Oil on Linen",
+    medium: "Oil on Canvas",
     size: "80 x 80 cm",
     year: 2025,
     description:
@@ -56,12 +56,12 @@ export const artworks: Artwork[] = [
   },
   {
     id: "soft-morning",
-    title: "Morning Tide",
+    title: "Breaking Tide",
     images: [
       "/listings/4.1.jpeg",
       "/listings/4.2.jpeg",
     ],
-    medium: "Watercolor on Paper",
+    medium: "Oil on Canvas",
     size: "30 x 40 cm",
     year: 2023,
     description:
@@ -70,12 +70,12 @@ export const artworks: Artwork[] = [
   },
   {
     id: "storm-memory",
-    title: "Memory of a Storm",
+    title: "Wild Bloom",
     images: [
       "/listings/5.2.jpeg",
       "/listings/5.1.jpeg",
     ],
-    medium: "Mixed Media",
+    medium: "Oil on Canvas",
     size: "70 x 90 cm",
     year: 2024,
     description:
