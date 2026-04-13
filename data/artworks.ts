@@ -16,8 +16,8 @@ export const artworks: Artwork[] = [
     id: "sunlit-field",
     title: "Last Light on the Water",
     images: [
-      "/artworks/1.JPG",
-      "/artworks/2.JPG",
+      "/listings/1.1.HEIC",
+      "/listings/1.2.HEIC",
     ],
     medium: "Oil on Canvas",
     size: "60 x 90 cm",
