@@ -44,8 +44,8 @@ export const artworks: Artwork[] = [
     id: "quiet-forest",
     title: "Golden Hills of Summer",
     images: [
-      "/artworks/5.JPG",
-      "/artworks/6.JPG",
+      "/listings/3.1.jpeg",
+      "/listings/3.2.jpeg",
     ],
     medium: "Oil on Linen",
     size: "80 x 80 cm",
